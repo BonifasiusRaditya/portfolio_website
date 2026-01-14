@@ -59,7 +59,7 @@
 
 .profile-photo {
   width: auto;
-  height: 620px;
+  height: 80vh;
   object-fit: contain;
 }
 
